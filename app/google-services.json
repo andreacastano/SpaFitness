@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "92662238423",
+    "firebase_url": "https://spafitness-fa439.firebaseio.com",
+    "project_id": "spafitness-fa439",
+    "storage_bucket": "spafitness-fa439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92662238423:android:477a5fc4d3a44876",
+        "android_client_info": {
+          "package_name": "co.yolima.spafitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92662238423-8k5ealf4o3kkdc2un3se7su947goim9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.yolima.spafitness",
+            "certificate_hash": "9CB819EDB6904AC31453CFEE0636370C977499B8"
+          }
+        },
+        {
+          "client_id": "92662238423-eub755q2hd49ovom7v40o7004ej528bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKqChPGfAp0ZeawGIo8D_tMejCwowhEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92662238423-eub755q2hd49ovom7v40o7004ej528bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
